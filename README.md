@@ -26,7 +26,7 @@ A responsive and interactive image slider built with HTML, CSS, and JavaScript. 
 * Open **VS Code**.
 * Click **File → Open Folder → select your project folder** (the one containing `package.json`).
 
-# ⚙️ Step 2 — Install dependencies
+# Step 2 — Install dependencies
 
 Open a **new terminal** in VS Code:
 ```
@@ -41,7 +41,7 @@ Run:
 npm start
 ```
 * The app will automatically open in your browser and start to run at
-  👉 [http://localhost:3000](http://localhost:3000)
+  [http://localhost:3000](http://localhost:3000)
 
 # Step 4 — View & test
 * Your heading (“Dynamic Image Slider”) will show on top.
@@ -68,6 +68,6 @@ You’ll see:
 
 #### Clone the Repository ###
 
-git clone :https://github.com/AshikaAkshini/Dynamic-Image-Slider
+git clone : " https://github.com/AshikaAkshini/Dynamic-Image-Slider "
 
-
+Deployment link :" http://127.0.0.1:7000/dynamic2.html "
