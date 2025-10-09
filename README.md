@@ -68,6 +68,6 @@ You’ll see:
 
 #### Clone the Repository ###
 
-git clone https://github.com/Abi-M-ART/interactive-dynamic-image-slider.git
+git clone :https://github.com/AshikaAkshini/Dynamic-Image-Slider
 
 
