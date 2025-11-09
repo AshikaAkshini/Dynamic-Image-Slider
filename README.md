@@ -70,4 +70,4 @@ You’ll see:
 
 git clone : " https://github.com/AshikaAkshini/Dynamic-Image-Slider "
 
-Deployment link :" https://dynamic-image-slider-b1mm.vercel.app/ "
+Deployment link :" https://dynamic-image-slider-roan.vercel.app/ "
